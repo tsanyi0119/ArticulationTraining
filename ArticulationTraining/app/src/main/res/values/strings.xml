@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArticulationTraining</string>
+    <string name="listendiscern">聽辨訓練</string>
+    <string name="articulation">構音訓練</string>
+    <string name="history">歷史紀錄</string>
+    <string name="setting">設定</string>
+    <string name="img_mic_description">錄音按鈕</string>
+</resources>
